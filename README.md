@@ -5,5 +5,3 @@
   <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=yoopuipui&layout=compact&theme=dracula&border_radius=10" />
 </p>
 
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yoopuipui)](https://github.com/anuraghazra/github-readme-stats)
